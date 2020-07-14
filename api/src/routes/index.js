@@ -5,7 +5,6 @@ import AlunosController from '../app/controllers/AlunoController';
 /**  * */
 
 const routes = new Router();
-routes.use('/', AlunosController.index);
 
 routes.get('/alunos', AlunosController.index);
 
