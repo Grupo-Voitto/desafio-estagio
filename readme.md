@@ -8,7 +8,7 @@
 
  3 - Após ter os pacotes instalados você poderá iniciar as aplicações do desafio da seguinte forma:
    
-   - Para iniciar a api entre na pasta "api"e digite o comando `yarn run dev`
+   - Para iniciar a api entre na pasta "api" e digite o comando `yarn run dev`
    
    - Para iniciar o front-end entre na pasta "frontend" e digiteo comando `yarn start`
 
