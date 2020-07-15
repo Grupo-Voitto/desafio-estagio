@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 
 // components
-import { Table, Button, Popup, Modal, Image, Header, Icon, Form } from 'semantic-ui-react'
+import { Table, Button, Popup, Modal, Header, Icon, Form } from 'semantic-ui-react'
 
 //services
 import api from '../../services/api';
@@ -99,7 +99,7 @@ const Dashboard = () => {
           </Table.Row>
         </Table.Header>
         <Table.Body>
-          {alunos.length>0 && render_alunos()}
+          { alunos.length > 0 ? render_alunos() : <h2>Nenhum dado registrado </h2> }
         </Table.Body>
       </Table>
       {render_modal_info_alunos()}

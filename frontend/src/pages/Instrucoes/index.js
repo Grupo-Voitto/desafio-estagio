@@ -1,30 +1,12 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 
 // components
 import { Button, Icon, List } from 'semantic-ui-react'
-
-//services
-import api from '../../services/api';
 
 // styles
 import { Container, InitialText, Description, CenterDiv} from './styles';
 
 const Instrucoes = () => {
-  const [message, setMessage] = useState('Carregando dados...')
-
-  useEffect(()=>{
-    async function fetchData() {
-      try{
-        const response = await api.get('/');
-        console.log(response);
-        setMessage('Dados Carregados');
-      } catch {
-        setMessage('Confira sua api');
-      }
-    }
-    fetchData();
-  }, [])
-
   return (
     <Container>
       <InitialText>
@@ -61,7 +43,7 @@ const Instrucoes = () => {
           </List.List>
         </List.Item>
       </List>
-      <Description>Caso tenha dúvidas envie um email para:<br /> andersonamorim939@gmail.com <br /> ou <br />ruandsxavier@gmail.com.</Description>
+      <Description>Caso tenha dúvidas envie um email para:<br /><br /> andersonamorim939@gmail.com <br /><br />ruandsxavier@gmail.com</Description>
     </Container>
   );
 };

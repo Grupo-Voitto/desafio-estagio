@@ -21,6 +21,10 @@ SET time_zone = "+00:00";
 -- Banco de dados: `voitto_desafio`
 --
 
+CREATE DATABASE `voitto_desafio`;
+
+USE `voitto_desafio`; 
+
 -- --------------------------------------------------------
 
 --
@@ -41,7 +45,7 @@ CREATE TABLE `aluno` (
 --
 
 INSERT INTO `aluno` (`id`, `nome`, `email`, `cep`, `cidade`, `estado`) VALUES
-(1, 'Ruan Xavier', 'ruandsxavier@gmail.com', '36033170', 'Juiz De Fora', 'MG'),
+(1, 'Ruan Xavier', 'ruandsxavier@gmail.com', '36037010', 'Juiz De Fora', 'MG'),
 (2, 'Anderson Amorim', 'andesonamorim939@gmail.com', '36033160', 'Juiz De Fora', 'MG');
 
 -- --------------------------------------------------------
