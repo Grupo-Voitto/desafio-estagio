@@ -31,7 +31,7 @@ Essa será uma aplicação para controle de alunos, onde possibilite listar, cad
 
 ### Template da aplicação
 
-Para te ajudar nesse desafio, criamos para você um modelo que você deve utilizar como um template do Github.
+Para te ajudar nesse desafio, criamos um modelo que você deve utilizar como um template do Github.
 
 O template está disponível na seguinte url: **[Acessar Template](https://github.com/Grupo-Voitto/desafio-estagio)**
 
@@ -39,8 +39,11 @@ O template está disponível na seguinte url: **[Acessar Template](https://githu
 
 Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal, nas pastas `frontend` e `api`, para instalar todas as dependências de ambas aplicações.
 
+Na pasta `api`, crie um arquivo `.env` com base no `.env-example`. Lá você deve colocar as variáveis que referenciem o seu banco de dados local.
 
-Após ter os pacotes instalados você poderá iniciar as aplicações do desafio da seguinte forma:
+Lembre-se também de importar o banco de dados utilizando o arquivo `desafio-voitto.sql` disponível na raiz do projeto.
+
+Após ter configurado o banco e com os pacotes instalados, você poderá iniciar as aplicações do desafio da seguinte forma:
    
    - Para iniciar a api entre na pasta "api" e digite o comando `yarn run dev`
    
@@ -67,4 +70,4 @@ Deixamos dois desenvolvedores da empresa dispostos a ajudar você nessa jornada:
 
 ---
 
-Feito com :heart: by Voitto
+Feito com :heart: by Grupo Voitto
