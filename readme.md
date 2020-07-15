@@ -10,6 +10,6 @@
    
    - Para iniciar a api entre na pasta "api"e digite o comando `yarn run dev`
    
-   - Para iniciar o front-end entre na pasta "frontend" e digiteo comando `yarn start`
+   - Para iniciar o front-end entre na pasta "frontend" e digiteo comando `yarn start`
 
-  Após esses passos você conseguirá ver as intruções para realizar o desafio no endereço usado para rodar o front-end, que deve ser `http://localhost:3000/`(caso sua porta 3000 não esteja ocupada no momento);
+  Após esses passos você conseguirá ver as intruções para realizar o desafio no endereço usado para rodar o front-end, que deve ser `http://localhost:3000/`(caso sua porta 3000 não esteja ocupada no momento);
