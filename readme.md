@@ -2,9 +2,9 @@
 
 ## Passo a passo para iniciar o desafio
 
- 1 - Baixa o projeto separadamente como um template no botão "Use this template"
+ 1 - Baixar o projeto separadamente como um template no botão "Use this template"
 
- 2 - Após baixar o projeto você terá uma pasta da do back-end(api) e do front-end(frontend). Ambas precisam ter usas depenencias instaladas para serem usadas. Para tal, entre na pasta api e digite o comando `yarn`, faça o mesmo na pasta frontend
+ 2 - Após baixar o projeto você terá uma pasta do back-end(api) e do front-end(frontend). Ambas precisam ter suas dependências instaladas para serem iniciadas. Para tal, entre na pasta "api" e digite o comando `yarn`, faça o mesmo na pasta “frontend”
 
  3 - Após ter os pacotes instalados você poderá iniciar as aplicações do desafio da seguinte forma:
    
