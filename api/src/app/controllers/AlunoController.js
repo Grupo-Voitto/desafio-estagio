@@ -2,8 +2,8 @@ import Aluno from '../models/Aluno';
 
 class AlunoController {
   async index(req, res) {
-    // TODO
-    return res.json({ msg: 'A dedicação é a chave para o sucesso' });
+    const alunos = await Aluno.findAll()
+    res.json(alunos);
   }
 
   async read(req, res) {

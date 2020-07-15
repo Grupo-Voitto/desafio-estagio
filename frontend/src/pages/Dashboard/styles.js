@@ -11,12 +11,7 @@ export const Container = styled.div`
   width: 100vw;
   min-height: 100vh;
   background-color: #F0F2F5;
-
-  margin: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  padding:20px;
 `;
 
 

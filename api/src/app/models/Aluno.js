@@ -6,7 +6,6 @@ class Aluno extends Model {
       {
         nome: DataTypes.STRING,
         email: DataTypes.STRING,
-        senha: DataTypes.STRING,
         cep: DataTypes.STRING,
         cidade: DataTypes.STRING,
         estado: DataTypes.STRING
@@ -14,7 +13,7 @@ class Aluno extends Model {
       {
         sequelize,
         timestamps: false,
-        tableName: 'alunos'
+        tableName: 'aluno'
       }
     );
 
