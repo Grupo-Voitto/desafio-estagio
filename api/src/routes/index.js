@@ -1,8 +1,6 @@
 import { Router } from 'express';
 
-/** Controllers */
 import AlunosController from '../app/controllers/AlunoController';
-/**  * */
 
 const routes = new Router();
 
