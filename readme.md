@@ -99,10 +99,9 @@ O prazo para resolução está no email enviado por ti@voitto.com.br.
 
 ## Dúvidas e Sugestões
 
-Deixamos dois desenvolvedores da empresa dispostos a ajudar você nessa jornada:
+Deixamos um desenvolvedor da empresa disposto a ajudar você nessa jornada:
 
- - **[Charles Braga](https://github.com/CharlesLB)** - charles.braga.jf.cb@gmail.com
- - **[Kaio Braga](https://github.com/KaioVBraga)** - kaiovbraga2001@gmail.com
+ - **[Henrico Piubello](https://github.com/henricop)** - hpiubello@gmail.com
 
 
 ---
