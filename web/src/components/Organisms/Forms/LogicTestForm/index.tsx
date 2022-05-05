@@ -31,7 +31,6 @@ const LogicTestForm: React.FC = () => {
 
     const noFibonacciNumber = getNoFibonacciNumber(n);
     setResults(noFibonacciNumber);
-
     return;
   };
 

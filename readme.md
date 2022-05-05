@@ -102,6 +102,7 @@ O prazo para resolução está no email enviado por ti@voitto.com.br.
 Deixamos um desenvolvedor da empresa disposto a ajudar você nessa jornada:
 
  - **[Henrico Piubello](https://github.com/henricop)** - hpiubello@gmail.com
+ - **[Rafael Menegheti](https://github.com/rafamenegheti)** - rafaelmenegheti51@gmai.com
 
 
 ---
