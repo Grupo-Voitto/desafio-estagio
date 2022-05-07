@@ -61,6 +61,10 @@ Serão realizados 3 testes:
 
 Aqui, você terá que criar uma API REST utilizando as boas práticas.
 
+- Você vai precisar criar simplesmente a conexão local do seu servidor ( api ) com o seu banco de dados. Lembre-se de usar o voitto_desafio.sql é ele que possui nossa estrutura pronta
+
+- Após ter feito toda a conexão, basta apenas criar as rotas e o sistema de  CRUD ( CREATE READ UPDATE E DELETE) e integrar com o frontend
+
 ### Teste de lógica
 
 Aqui, você terá que criar uma buscador em uma sequência não fibonacci.
