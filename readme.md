@@ -1,4 +1,4 @@
-# Desafio Desenvolvedor Júnior TI 2022/2
+# Desafio Estágio TI 2022/2
 
 <img alt="GoStack" src="https://www.voitto.com.br/assets/videos/home_header.jpg" />
 
@@ -66,13 +66,6 @@ Aqui, você terá que criar uma API REST utilizando as boas práticas.
 
 - Após ter feito toda a conexão, basta apenas criar as rotas e o sistema de  CRUD ( CREATE READ UPDATE E DELETE) e integrar com o frontend
 
-- Crie um sistema de login com autenticação, simples.
-  - crie o endpoint criação de conta
-  - crie o endpoint de login
-  - E o endpoint de refatoração de senha, não é necessário, mas caso queira incrementar adicione o nodemail ( https://nodemailer.com/about/) onde vc enviará uma confirmação de de email da forma que achar melhor
-  - A senha não pode ter menos de 8 digitos
-
-
 
 ### Teste de lógica
 
@@ -95,7 +88,6 @@ digitar 2, deve aparecer 6. E assim por diante.
 
 Aqui você terá que criar um admin de alunos onde deve listar, cadastrar e excluir alunos, além de poder atribuir cursos e visualizar todos os cursos de um aluno.
 
-- Lembre-se de criar o sistema de Login no frontend com as informações relevantes e tratativas de erro para as regras definidas no nosso backend
 
 ## Regras do teste
 
