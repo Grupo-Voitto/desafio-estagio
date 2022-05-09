@@ -1,4 +1,4 @@
-# Desafio Estágio TI 2022/2
+# Desafio Desenvolvedor Júnior TI 2022/2
 
 <img alt="GoStack" src="https://www.voitto.com.br/assets/videos/home_header.jpg" />
 
