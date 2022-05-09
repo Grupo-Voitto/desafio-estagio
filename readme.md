@@ -95,7 +95,7 @@ digitar 2, deve aparecer 6. E assim por diante.
 
 Aqui você terá que criar um admin de alunos onde deve listar, cadastrar e excluir alunos, além de poder atribuir cursos e visualizar todos os cursos de um aluno.
 
-- Lembre-se de criar o sistema de Login no frontend com as informações relecantes e tratativas de erro para as regras definidas no nosso backend
+- Lembre-se de criar o sistema de Login no frontend com as informações relevantes e tratativas de erro para as regras definidas no nosso backend
 
 ## Regras do teste
 
