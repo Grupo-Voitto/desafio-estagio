@@ -1,4 +1,4 @@
-# Desafio Estágio TI 2022/2
+# Desafio Estágio TI 2024/2
 
 <img alt="GoStack" src="https://www.voitto.com.br/assets/videos/home_header.jpg" />
 
@@ -88,7 +88,6 @@ digitar 2, deve aparecer 6. E assim por diante.
 
 Aqui você terá que criar um admin de alunos onde deve listar, cadastrar e excluir alunos, além de poder atribuir cursos e visualizar todos os cursos de um aluno.
 
-
 ## Regras do teste
 
 - Você pode fazer o que quiser com o projeto: criar novos componentes, baixar bibliotecas, refatorar código. Se for bem feito, será bem visto. Contudo, se não precisar, tudo bem.
@@ -100,9 +99,7 @@ Aqui você terá que criar um admin de alunos onde deve listar, cadastrar e excl
 
 Esse desafio deve ser entregue via email. 
 
-Envie com o assunto `Desafio Estágio TI 2022`. O corpo do email deve possuir o link para o seu repositório do Github contendo a solução.
-
-O prazo para resolução está no email enviado por ti@voitto.com.br.
+Envie com o assunto `Desafio Estágio TI 2024`. O corpo do email deve possuir o link para o seu repositório do Github contendo a solução.
 
 ## Dúvidas e Sugestões
 
