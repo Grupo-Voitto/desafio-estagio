@@ -9,8 +9,6 @@
 <blockquote align="center">”A dedicação é a chave para o sucesso”</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Grupo-Voitto/desafio-estagio?color=%23000">
-
   <a href="https://www.voitto.com.br" target="_blank">
     <img alt="Made by Grupo Voitto" src="https://img.shields.io/badge/made%20by-Grupo Voitto-%23000">
   </a>
