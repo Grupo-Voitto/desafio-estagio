@@ -14,10 +14,6 @@
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%23000">
-
-  <a href="https://github.com/Grupo-Voitto/desafio-estagio/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Grupo-Voitto/desafio-estagio?style=social">
-  </a>
 </p>
 
 
