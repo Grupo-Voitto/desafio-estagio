@@ -1,6 +1,6 @@
 # Desafio Estágio TI 2024/2
 
-<img alt="GoStack" src="https://www.voitto.com.br/assets/videos/home_header.jpg" />
+<img alt="GoStack" src="https://imagens-voitto.s3.amazonaws.com/imagens-voitto/anexos/1727199164834home_header.jpg" />
 
 <h2 align="center">
   Dashboard de Alunos
@@ -93,7 +93,7 @@ Aqui você terá que criar um admin de alunos onde deve listar, cadastrar e excl
 
 Esse desafio deve ser entregue via email. 
 
-Envie com o assunto `Desafio Estágio TI 2024`. O corpo do email deve possuir o link para o seu repositório do Github contendo a solução.
+Envie com o assunto `Desafio Estágio TI 2024` para o email: (ti@voitto.com.br). O corpo do email deve possuir o link para o seu repositório do Github contendo a solução.
 
 ## Dúvidas e Sugestões
 
